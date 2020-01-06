@@ -1,10 +1,10 @@
-﻿ID	Name	Designator	Footprint	Quantity	Manufacturer Part	Manufacturer	Supplier	Supplier Part
+ID	Name	Designator	Footprint	Quantity	Manufacturer Part	Manufacturer	Supplier	Supplier Part
 1	1N4148	D1	DO-35	1	1N4448	SEMTECH	LCSC	C54037
-2	330	R1	AXIAL-0.3	1	?			
-3	100K	R2,R3	AXIAL-0.3	2	?			
+2	330	R1	AXIAL-0.3	1				
+3	100K	R2,R3	AXIAL-0.3	2				
 4	Header	P2	HDR-6X1/2.54	1	Header-Female-2.54_1x6	BOOMELE	LCSC	C37208
 5	RPi	H1	DIP-2X2.54MM-4P	1	DS1023-2*2SF11	CONNFLY	LCSC	C92273
-6	0.1u	C1	RAD-0.1	1	?			
+6	0.1u	C1	RAD-0.1	1				
 7	ATTINY	U1	DIP-8	1	ATTINY45-20PU	MICROCHIP	LCSC	C152181
 8	Jumper	P1	HDR-3X1/2.54	1	Header-Female-2.54_1x3	Boom Precision Elec	LCSC	C146243
 9	LED-3MM	LED1	LED-3MM/2.54	1	204-10SURD/S530-A3	EVERLIGHT	LCSC	C99772
